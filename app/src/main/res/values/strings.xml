@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DataStore</string>
+    <string-array name="satuan">
+        <item>Pcs</item>
+        <item>Box</item>
+        <item>Karton</item>
+        <item>Lembar</item>
+        <item>Botol</item>
+    </string-array>
+    <string-array name="feelings">
+        <item>Sad</item>
+        <item>Dissatisfied</item>
+        <item>Satisfied</item>
+        <item>Happy</item>
+        <item>Excited</item>
+    </string-array>
+</resources>
